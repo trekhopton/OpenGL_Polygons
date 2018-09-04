@@ -1,3 +1,3 @@
 # OpenGL_Polygons
 
-![alt text](http://url/to/img.png)
+![screenshot](https://raw.githubusercontent.com/trekhopton/OpenGL_Polygons/master/screen.png)
